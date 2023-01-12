@@ -1,0 +1,6 @@
+object = {“a”:{“b”:{“c”:”d”}}}
+console.log("Result at 'a1.b1.c1': ",_.get(object, 'a.b.c'));
+
+
+
+Wxpected Value would be d
